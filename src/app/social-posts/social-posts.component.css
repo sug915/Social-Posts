@@ -1,0 +1,42 @@
+
+
+main {
+    /* display: inline-block; */
+    height: 75%;
+    /* width: 100%; */
+    font-family: 'Dosis', sans-serif;
+    border-radius: 5px;
+    text-align: center;
+    padding: 40px;
+    background: #f3f1f7;
+    transform: scale(1, 1);
+
+}
+section {
+    display: flex;
+    flex-direction: column;
+}
+.posts {
+    text-align: left;
+    margin-top: 30px;
+    background: white;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 400px;
+}
+h1 {
+    font-family: 'Homemade Apple', cursive;
+    color: rgb(3, 169, 244);
+    display: inline-block;
+}
+
+span {
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    display: block;
+}

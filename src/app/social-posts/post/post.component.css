@@ -1,0 +1,26 @@
+.feed{
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    
+    
+    
+    
+}
+
+h1 {
+    font-size: 24px;
+    display: inline-block;
+    transform: translateY(30px);
+}
+
+.xMark {
+    float: right;
+    transform: translateY(-30px);
+}
+section {
+    
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #f3f1f7;
+}
